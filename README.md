@@ -9,7 +9,7 @@
       - Criminology (as a breadth subject)
       - Circuits and Systems for Biomechancis
       
-- 💞️ I’m open to collaboration with anyone, let's ahve a chat!
+- 💞️ I’m open to collaboration with anyone, let's have a chat!
 
 - 📫 If you need to reach me, just use my email!
       ishkadakia@gmail.com  
