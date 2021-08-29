@@ -6,7 +6,6 @@
       - Biomechanics
       - Fusion 360
       - Anatomy
-      - Criminology (as a breadth subject)
       - Circuits and Systems for Biomechatronics systems.
       
 - 💞️ I’m open to collaboration with anyone, let's have a chat!
