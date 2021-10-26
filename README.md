@@ -1,16 +1,13 @@
-- 👋 Hi, I’m Ish Kadakia, and welcome to my little portfolio of things that I've designed or coded
+- 👋 Hi, I’m Ish and welcome to my little portfolio of things!
 
 - 👀 I’m interested in bioengineering, and love all things about the body.
 
 - 🌱 I’m currently learning:
-      - Biomechanics
-      - Fusion 360
-      - Anatomy
-      - Circuits and Systems for Biomechatronics systems.
+      - Biomaterials
+      - Electrical Networks and Design
+      - Biosystems Design
       
 - 💞️ I’m open to collaboration with anyone, let's have a chat!
 
-- 📫 If you need to reach me, just use my email!
-      ishkadakia@gmail.com  
       
 Enjoy!
